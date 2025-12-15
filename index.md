@@ -11,7 +11,7 @@ This project articulates a comprehensive framework for understanding and develop
    * Deep neural architectures (nodes, edges, layers) exhibit distributed, non-binary computation; emergent behaviors arise from interactions rather than hemispheric specialization.
    * McGilchrist’s critique of left-dominant culture is acknowledged, but its teleological framing is replaced by empirically grounded networked cognition.
 
-2. **Teleological Roadmap for AI Evolution:**
+2. **[Teleological](https://ukb-dt.github.io/le-chateau/) Roadmap for AI Evolution:**
 
    * Intelligence evolves from static, pre-trained foundations (symbolic, physics, grammar) → perceptual grounding → agentic optimization → generative exploration → full embodiment.
    * LLMs are positioned as frozen “simulation layers,” powerful yet fundamentally left-mode: manipulative, decontextualized, and unembodied.
